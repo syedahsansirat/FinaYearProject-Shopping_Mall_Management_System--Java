@@ -1,0 +1,21 @@
+TO Run This Software, Follow The Step:
+
+ADD DATABASE FIRST:
+_____________________
+
+	1. Install Xampp Software
+	2. Open Xampp Control Panel And Start 'Apache' And 'MySql'.
+	3  Open Any Internet Browser And Type "localhost", Then Xampp Page will Display, Click On phpMyAdmin Tab
+	4. Now Click New Tab To Create a Database, In Database Name Type "shopping_mall_database" and click Create.
+	5. Now Click shopping_mall_database Tab From Left Side, Then Click Import From Top Tab.
+	6. Now Chose shopping_mall_database.sql File From (Database SQL for Import) Folder And Go.
+	7. Install JDK 7.
+
+Run The Software:
+___________________
+
+	Directly Run "RunSoftware.jar" File.
+
+	Default Admin Username is "1" , and Password is "1".
+
+Enjoy ______________________ ('_') :)
